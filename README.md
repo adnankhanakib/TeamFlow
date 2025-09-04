@@ -24,7 +24,7 @@ TeamFlow is a simple teamwork app created as an university project within only 4
 git clone https://github.com/adnankhanakib/teamflow.git
 
 ```
-**2.** Import **TeamFlow.sql** file into **Microsoft SQL Server**.
+**2.** Import **database.sql** file into **Microsoft SQL Server**.
 
 **3.** Open the solution file **TeamFlow.sln** in Visual Studio.
 
