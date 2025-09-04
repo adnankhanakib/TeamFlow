@@ -1,7 +1,7 @@
 
 # TeamFlow
 
-TeamFlow is a simple teamwork app created as an university (American International University-Bangladesh) project within only 4 days. It is aimed at making it easier to create groups, assign tasks and communicate among them.
+TeamFlow is a simple teamwork app created as an university *(American International University-Bangladesh)* project within only 4 days. It is aimed at making it easier to create groups, assign tasks and communicate among them.
 
 ## 🚀 Features
 - **Create Groups** – Users can create groups for collaboration.
