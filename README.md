@@ -43,6 +43,19 @@ git clone https://github.com/adnankhanakib/teamflow.git
 - Enhanced UI/UX with modern themes.
 - Live chat like **Microsoft Teams**.
 
+## 📷 Screenshots
+1. Login UI
+![TeamFlow Login UI](/screenshots/Login%20UI.jpg)
+1. Dashboard UI
+![Dashboard UI](/screenshots/Dashboard%20UI.jpg)
+1. Browse Group UI
+![Browse Group UI](/screenshots/Browse%20Group%20UI.jpg)
+1. My Groups UI
+![My Groups UI](/screenshots/My%20groups%20UI.jpg)
+1. Assigned Tasks UI
+![Assigned Task UI](/screenshots/Tasks%20UI.jpg)
+
+
 ## 🤝 Contributing
 This was originally a university project but contributions are welcome.
 Fork the repo, create a branch, and submit a pull request.
