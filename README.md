@@ -1,7 +1,7 @@
 
 # TeamFlow
 
-TeamFlow is a simple teamwork app created as an university project within only 4 days. It is aimed at making it easier to create groups, assign tasks and communicate among them.
+TeamFlow is a simple teamwork app created as an university *(American International University-Bangladesh)* project within only 4 days. It is aimed at making it easier to create groups, assign tasks and communicate among them.
 
 ## 🚀 Features
 - **Create Groups** – Users can create groups for collaboration.
@@ -24,7 +24,7 @@ TeamFlow is a simple teamwork app created as an university project within only 4
 git clone https://github.com/adnankhanakib/teamflow.git
 
 ```
-**2.** Import **TeamFlow.sql** file into **Microsoft SQL Server**.
+**2.** Import **database.sql** file into **Microsoft SQL Server**.
 
 **3.** Open the solution file **TeamFlow.sln** in Visual Studio.
 
@@ -42,6 +42,19 @@ git clone https://github.com/adnankhanakib/teamflow.git
 - File sharing support.
 - Enhanced UI/UX with modern themes.
 - Live chat like **Microsoft Teams**.
+
+## 📷 Screenshots
+1. Login UI
+![TeamFlow Login UI](/screenshots/Login%20UI.jpg)
+1. Dashboard UI
+![Dashboard UI](/screenshots/Dashboard%20UI.jpg)
+1. Browse Group UI
+![Browse Group UI](/screenshots/Browse%20Group%20UI.jpg)
+1. My Groups UI
+![My Groups UI](/screenshots/My%20groups%20UI.jpg)
+1. Assigned Tasks UI
+![Assigned Task UI](/screenshots/Tasks%20UI.jpg)
+
 
 ## 🤝 Contributing
 This was originally a university project but contributions are welcome.
